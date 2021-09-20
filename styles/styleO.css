@@ -1,0 +1,8 @@
+div.menu {
+    background: lightblue;
+    position: fixed;
+    width: 20%;
+    top: 25px;
+    left: 0;
+    bottom: 0;
+}
